@@ -4,6 +4,7 @@ Code by Following the [walk-through article](https://developer.mozilla.org/en-US
 
 ## Resources & References
 
-- [MDN WebExtension Articles](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
-- [WebExtension examples by Mozilla](https://github.com/mdn/webextensions-examples)
-- [IconBeast Lite](http://www.iconbeast.com/free/) Free Version - CC-BY [Charlene](http://www.iconbeast.com) <thebeast@iconbeast.com>
+- [MDN WebExtension Articles](https://developer.mozilla.org/en-US/Add-ons/WebExtensions).
+- [WebExtension examples by Mozilla](https://github.com/mdn/webextensions-examples).
+- [IconBeast Lite](http://www.iconbeast.com/free/) Free Version - CC-BY [Charlene](http://www.iconbeast.com) <thebeast@iconbeast.com>.
+- Beast images from [my photo gallery](https://sudaraka.org/gallery#photographs) - CC-BY-SA [Sudaraka Wijesinghe](https://sudaraka.org/contact).
