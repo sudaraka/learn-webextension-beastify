@@ -7,5 +7,13 @@
     "gecko": {
       "id": "beastify@sudaraka.org"
     }
+  },
+
+  "browser_action": {
+    "default_title": "Beastify",
+    "default_icon": {
+      "19": "assets/images/browser-icon-19.png",
+      "38": "assets/images/browser-icon-38.png"
+    }
   }
 }

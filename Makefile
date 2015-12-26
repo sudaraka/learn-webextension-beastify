@@ -3,7 +3,7 @@ EXCLUDE = README.md Makefile
 
 all: $(NAME).xpi
 
-$(NAME).xpi: manifest.json
+$(NAME).xpi: manifest.json assets/*
 	zip -x $(EXCLUDE) -r $@ *
 
 clean:
