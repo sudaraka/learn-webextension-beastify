@@ -21,5 +21,14 @@
       "38": "assets/images/browser-icon-38.png"
     },
     "default_popup": "assets/html/browser-popup.html"
-  }
+  },
+
+  "web_accessible_resources": [
+    "assets/images/beasts/frog-02.jpg",
+    "assets/images/beasts/jellyfish.jpg",
+    "assets/images/beasts/lizard.jpg",
+    "assets/images/beasts/caterpillar.jpg",
+    "assets/images/beasts/frog-01.jpg",
+    "assets/images/beasts/squirrel.jpg"
+  ]
 }
