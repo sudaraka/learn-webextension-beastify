@@ -3,7 +3,7 @@ EXCLUDE = README.md LICENSE Makefile
 
 all: $(NAME).xpi
 
-$(NAME).xpi: manifest.json assets/**/*
+$(NAME).xpi: manifest.json **/*.js assets/**/*
 	zip -x $(EXCLUDE) -r $@ *
 
 clean:
