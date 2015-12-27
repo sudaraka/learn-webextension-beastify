@@ -9,6 +9,11 @@
     }
   },
 
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+
   "browser_action": {
     "default_title": "Beastify",
     "default_icon": {
