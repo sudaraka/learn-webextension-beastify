@@ -3,7 +3,7 @@
 
   "name": "Beastify",
   "description": "Beastify - (Firefox) WebExtension Demo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "icons": {
     "48": "/assets/images/extension-icon-48.png",
     "96": "/assets/images/extension-icon-96.png"
