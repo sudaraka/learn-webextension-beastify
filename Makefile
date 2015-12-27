@@ -1,5 +1,5 @@
 NAME = beastify
-EXCLUDE = README.md Makefile
+EXCLUDE = README.md LICENSE Makefile
 
 all: $(NAME).xpi
 
