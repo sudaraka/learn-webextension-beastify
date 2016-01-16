@@ -11,7 +11,8 @@
 
   "applications" :{
     "gecko": {
-      "id": "beastify@sudaraka.org"
+      "id": "beastify@sudaraka.org",
+      "strict_min_version": "45.0.0"
     }
   },
 
