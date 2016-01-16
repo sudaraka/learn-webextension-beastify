@@ -30,6 +30,13 @@
     "default_popup": "assets/html/browser-popup.html"
   },
 
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "css": ["assets/css/beastify.css"]
+    }
+  ],
+
   "web_accessible_resources": [
     "assets/images/beasts/frog-02.jpg",
     "assets/images/beasts/jellyfish.jpg",
